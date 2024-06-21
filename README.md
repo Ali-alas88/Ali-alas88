@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Javascript,Php**
 
-- 👨‍💻 All of my projects are available at [www.com](www.com)
+- 👨‍💻 All of my projects are available at [www.com](https://coder-ali.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.aqoonhup.com/](https://www.aqoonhup.com/)
 
-- 📫 How to reach me **bloggerwebsite28@gmail.com**
+- 📫 How to reach me **alialazmoha292@gmail.com**
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 
