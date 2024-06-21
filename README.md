@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript,Php**
 
-- 👨‍💻 All of my projects are available at [www.com](https://coder-ali.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://coder-ali.vercel.app/](https://coder-ali.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.aqoonhup.com/](https://www.aqoonhup.com/)
 
