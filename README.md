@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-alas88" alt="ali-alas88" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,Php**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://coder-ali.vercel.app/](https://coder-ali.vercel.app/)
 
